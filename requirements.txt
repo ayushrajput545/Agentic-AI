@@ -1,0 +1,19 @@
+langchain
+langchain-openai
+dotenv
+langchain-google-genai
+langchain-anthropic
+streamlit
+langchain-groq
+langchain-community
+langgraph # for saving memory
+pypdf # to load RAG doc
+beautifulsoup4 # used to crawl any web page and extract HTML data from it in document loader during RAG
+wikipedia # load data from wikipedia
+langchain-text-splitters
+langchain-chroma #chroma vector db
+sentence-transformers #for embedding model cuz gemini reach its limit
+langchain-huggingface
+pydantic
+
+#pip install -r requirements.txt
